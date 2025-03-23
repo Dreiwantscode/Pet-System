@@ -132,16 +132,6 @@ Run the Android Mobile App:
 System Workflow Diagram
 [User] → Logs In → [Dashboard] → Views Pets → [Adopts Pet] → Confirms Adoption → [Records Module Updates]
 
----
-
-License
-This project is licensed under the MIT License.
-
----
-
-Contact & Contribution
-Feel free to fork the repository and contribute!  
-Email: [your-email@example.com]  
-GitHub: [your-github-profile]
+--
 
 Happy Coding!
